@@ -1,7 +1,7 @@
 ### Hey, I'm Param Birje! 👋
-A full stack engineer, AWS Certified Solutions Architect, open source enthusiast and a student.
+A full stack AI engineer, AWS Certified Machine Learning Engineer, AWS Certified Solutions Architect, open source enthusiast.
 
-Crafting and architecting end-to-end full stack applications that scale across the cloud.
+Crafting and architecting end-to-end agentic AI applications that scale across the cloud.
 
 #### 🔭 I’m currently working with
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
